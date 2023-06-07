@@ -1,1 +1,16 @@
-discord_link
+{
+  "discord_link": "nigg",
+  "service_online": true,
+  "license_keys":[
+    "554d8500-e92d-4f35-b66d-8792d6a0e8de", 
+    "46a9843e-2b8a-4fb9-82d5-2ea6638100e4", 
+    "c03d9704-3b2f-4e16-a691-f216bc656ecc",
+    "c4fe5f15-e2fa-4af6-8a41-b6f4f20f19c6",
+    "f2fcd5af-21c6-4102-865d-6ceb0bd1e238",
+    "e146ff7d-e9c3-4186-b4af-e17b82c3203f",
+    "1ce00b95-5bd7-4da1-9110-bc607d530010",
+    "dd3b35ca-ecf4-40d5-a136-57e4e582a186",
+    "5af3b122-f871-480e-9135-58a73ce8e0c3",
+    "3a817e71-fe77-4d83-a468-51b934f1f811",
+  ]
+}
