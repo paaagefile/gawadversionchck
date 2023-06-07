@@ -1,16 +1,1 @@
-discord_link": "nigg",
-  "service_online": true,
-  "license_keys":["Ford", "BMW", "Fiat"]
-}discord_link": "nigg",
-  "service_online": true,
-  "license_keys":["Ford", "BMW", "Fiat"]
-}discord_link": "nigg",
-  "service_online": true,
-  "license_keys":["Ford", "BMW", "Fiat"]
-}discord_link": "nigg",
-  "service_online": true,
-  "license_keys":["Ford", "BMW", "Fiat"]
-}discord_link": "nigg",
-  "service_online": true,
-  "license_keys":["Ford", "BMW", "Fiat"]
-}
+discord_link
